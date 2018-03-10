@@ -16,7 +16,7 @@ websites:
       btc: Yes
       othercrypto: No
       doc: https://btcapi.org/docs
-      
+
     - name: Bitpay
       url: https://bitpay.com
       img: bitpay.png
@@ -147,7 +147,7 @@ websites:
       img: paysafecard.png
       twitter: Paysafecard
       bch: No
-      
+
     - name: PaySrc
       url: https://paysrc.com/
       img: paysrc.png
@@ -163,6 +163,15 @@ websites:
       img: privacy.png
       bch: No
 
+    - name: pyxpub.io
+      url: https://pyxpub.io/
+      img: pyxpubio.png
+      twitter: pyxpub
+      email_address: info@pyxpub.io
+      bch: Yes
+      btc: Yes
+      othercrypto: Yes
+
     - name: Ravelin
       url: https://www.ravelin.com/
       twitter: Ravelinhq
@@ -176,7 +185,7 @@ websites:
       bch: Yes
       btc: Yes
       othercrypto: Yes
-      
+
     - name: Selly.gg
       url: https://selly.gg
       img: sellygg.png
