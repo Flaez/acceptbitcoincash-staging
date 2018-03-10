@@ -192,6 +192,18 @@ websites:
       btc: No
       othercrypto: No
 
+    - name: Mobile Vikings
+      url: https://mobilevikings.be/en/v2/
+      img: mobilevikings.png
+      twitter: mobilevikingsBE
+      facebook: mobilevikings
+      email_address: info@mobilevikings.be
+      region: eu
+      country: BE
+      bch: Yes
+      btc: Yes
+      othercrypto: No
+
     - name: Moj Tele2
       url: https://moj.tele2.hr/
       twitter: Tele2Croatia
@@ -309,15 +321,6 @@ websites:
       btc: No
       othercrypto: No
 
-    - name: T-Mobile
-      url: https://www.t-mobile.com/
-      twitter: TMobileHelp
-      facebook: TMobile
-      img: tmobile.png
-      bch: No
-      btc: No
-      othercrypto: No
-
     - name: Telia (Sweden)
       url: https://www.telia.se/
       img: telia.png
@@ -366,6 +369,15 @@ websites:
       url: https://ting.com/
       img: ting.png
       twitter: tingFTW
+      bch: No
+      btc: No
+      othercrypto: No
+
+    - name: T-Mobile
+      url: https://www.t-mobile.com/
+      twitter: TMobileHelp
+      facebook: TMobile
+      img: tmobile.png
       bch: No
       btc: No
       othercrypto: No
@@ -458,7 +470,7 @@ websites:
       btc: No
       othercrypto: No
       exceptions:
-        text: "Stopped supporting Bitcoin in the beginning of June 2017"
+        text: Stopped supporting Bitcoin in the beginning of June 2017
 
     - name: VoIP.ms
       url: https://voip.ms/
