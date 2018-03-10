@@ -27,7 +27,7 @@ websites:
       btc: yes
       othercrypto: no
       exceptions:
-        text: "Bitcoin Cash is a manual payment at this time. Contact Bees Brothers: beesbrothers@gmail.com"
+        text: 'Bitcoin Cash is a manual payment at this time. Contact Bees Brothers: beesbrothers@gmail.com'
 
     - name: Blue Apron
       url: https://www.blueapron.com/
@@ -37,7 +37,7 @@ websites:
       bch: No
       btc: No
       othercrypto: No
-      
+
     - name: City Lounge
       url: http://www.ourcitylounge.com/
       img: cityLounge.png
@@ -128,6 +128,15 @@ websites:
       twitter: tacobell
       facebook: tacobell
 
+    - name: Takeaway
+      url: https://www.takeaway.com/
+      img: takeaway.png
+      twitter: takeaway
+      region: eu
+      bch: Yes
+      btc: Yes
+      othercrypto: No
+
     - name: Takeaway.com
       url: https://www.takeaway.com
       img: takeaway.png
@@ -145,7 +154,7 @@ websites:
       country: es
       city: Barcelona
       bch: yes
-      
+
     - name: Village Catalog
       url: https://villagecatalog.com
       img: villageCatalog.png
