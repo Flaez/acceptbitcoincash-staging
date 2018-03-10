@@ -25,7 +25,7 @@ websites:
       bch: No
       twitter: Blizzard_Ent
       facebook: Blizzard
-      
+
     - name: Buy Pi
       url: https://buypi.net/
       img: buypi.png
@@ -36,6 +36,16 @@ websites:
       bch: Yes
       btc: Yes
       othercrypto: No
+
+    - name: CJS CD Keys
+      url: https://www.cjs-cdkeys.com
+      img: cjscdkeys.png
+      twitter: '@CJS_CD_Keys'
+      facebook: https://www.facebook.com/CJSCDKEYS
+      bch: Yes
+      btc: Yes
+      othercrypto: Yes
+      doc: No
 
     - name: Curse
       url: https://www.curse.com/
@@ -190,7 +200,7 @@ websites:
       bch: No
       twitter: OriginInsider
       facebook: OriginInsider
-      
+
     - name: Pinoy Game Store
       url: http://www.pinoygamestore.com
       img: pinoygamestore.png
@@ -237,7 +247,7 @@ websites:
       twitter: SquareEnix
       facebook: SquareEnix
 
-    - name: "Star Wars: The Old Republic"
+    - name: 'Star Wars: The Old Republic'
       url: http://www.swtor.com/
       img: swtor.png
       bch: No
@@ -259,7 +269,7 @@ websites:
       twitter: Steam_Games
       facebook: Steam
       exceptions:
-        text: "Steam used to accept Bitcoin Legacy, but announced it would discontinue doing so on 2017-12-06, due to high fees and volatility in the value of Bitcoin."
+        text: Steam used to accept Bitcoin Legacy, but announced it would discontinue doing so on 2017-12-06, due to high fees and volatility in the value of Bitcoin.
 
     - name: Steam Game Keys
       url: https://steamgamekeys.com/
