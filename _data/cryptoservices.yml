@@ -8,14 +8,14 @@ websites:
       btc: Yes
       othercrypto: Yes
       doc: https://twitter.com/ALFAtopme/status/965512505471721472
-      
+
     - name: BCHTips.org
       url: https://bchtips.org
       img: bchtips.png
       bch: yes
       btc: no
       othercrypto: no
-      
+
     - name: Bit2Me
       url: https://bit2me.com
       img: bit2me.png
@@ -34,7 +34,7 @@ websites:
       bch: yes
       btc: yes
       othercrypto: yes
-      
+
     - name: BitcoinPlug
       url: https://bitcoinplug.com
       twitter: bitcoinplugatm
@@ -85,7 +85,7 @@ websites:
       bch: Yes
       btc: Yes
       othercrypto: No
-      
+
     - name: Btcinshop
       url: http://www.btcinshop.com
       img: Btcinshop.png
@@ -113,7 +113,7 @@ websites:
       twitter: circlepay
       email_address: info@circle.com
       exceptions:
-        text: "Circle accepted BTC until June 2017 - see https://support.circle.com/hc/en-us/articles/213560743-Bitcoin-on-Circle"
+        text: Circle accepted BTC until June 2017 - see https://support.circle.com/hc/en-us/articles/213560743-Bitcoin-on-Circle
 
     - name: Coin Cafe
       url: https://coincafe.com
@@ -137,7 +137,7 @@ websites:
       email_address: support@coinapult.com
 
     - name: coinbought.com
-      url: https://coinbought.com/ 
+      url: https://coinbought.com/
       img: coinbought.png
       twitter: coinbought
       email_address: support@coinbought.com
@@ -145,7 +145,7 @@ websites:
       bch: Yes
       btc: Yes
       othercrypto: Yes
-      
+
     - name: CoinDance
       url: https://cash.coin.dance/
       img: coindance.png
@@ -164,7 +164,7 @@ websites:
       email_address: info@coinjar.com
       doc: https://support.coinjar.com/hc/en-us/articles/115004087803-Claiming-Bitcoin-Cash-Tokens
       exceptions:
-        text: "Coinjar has enabled Bitcoin Cash withdrawal but does not yet offer full support."
+        text: Coinjar has enabled Bitcoin Cash withdrawal but does not yet offer full support.
 
     - name: CoinMarketCap
       url: https://coinmarketcap.com/
@@ -205,7 +205,7 @@ websites:
       url: https://cryptograffiti.info
       img: cryptograffiti.png
       bch: Yes
-      
+
     - name: cryptohearsay
       url: https://www.cryptohearsay.com/
       bch: Yes
@@ -220,6 +220,14 @@ websites:
       btc: no
       othercrypto: no
       doc: https://www.reddit.com/r/btc/comments/7jmcyz/pay_for_anything_online_with_bch_cryptonizeit/
+
+    - name: Digital Keys
+      url: https://digitalkeys.biz/
+      img: digitalkeys.png
+      email_address: digitalkeysshop@gmail.com
+      btc: Yes
+      othercrypto: Yes
+      bch: Yes
 
     - name: eGifter
       url: https://www.egifter.com/Default.aspx
@@ -281,14 +289,14 @@ websites:
       btc: Yes
       othercrypto: Yes
       doc: https://www.keys4coins.com/bitcoin-cash-accepted-here/
-      
+
     - name: Living Room of Satoshi
       url: https://www.livingroomofsatoshi.com/
       img: livingroom.png
       bch: Yes
       btc: Yes
       othercrypto: Yes
-      
+
     - name: LocalBitcoinCash
       url: https://localbitcoincash.org
       bch: Yes
@@ -345,7 +353,7 @@ websites:
       btc: Yes
       doc: https://blog.purse.io/announcement-update-bitcoin-cash/
       exceptions:
-        text: "Withdrawal support only"
+        text: Withdrawal support only
 
     - name: Rocketr
       url: https://rocketr.net
@@ -411,5 +419,4 @@ websites:
       othercrypto: Yes
       doc: https://blog.xapo.com/xapo-bitcoincash-bch-update/
       exceptions:
-        text: "Xapo has enabled Bitcoin Cash withdrawal but does not yet offer full support."
-
+        text: Xapo has enabled Bitcoin Cash withdrawal but does not yet offer full support.
