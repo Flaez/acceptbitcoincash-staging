@@ -12,7 +12,7 @@ websites:
       btc: Yes
       doc: https://bitcoinclassic.com/downloads/bcc/
       exceptions:
-        text: "Bitcoin Classic Closing its doors: https://bitcoinclassic.com/news/closing.html"
+        text: 'Bitcoin Classic Closing its doors: https://bitcoinclassic.com/news/closing.html'
 
     - name: Bitcoin Unlimited
       url: https://www.bitcoinunlimited.info
@@ -56,13 +56,23 @@ websites:
       othercrypto: Yes
       doc: https://breadapp.com/blog/breadwallet-plan-bitcoin-cash-bch/
       exceptions:
-          text: "Currently only allows withdrawals."
+        text: Currently only allows withdrawals.
 
     - name: BTC.com
       url: https://wallet.btc.com/
       img: btccom.png
       bch: Yes
       btc: Yes
+
+    - name: Carbon Wallet
+      img: carbonwallet.png
+      twitter: Carbon_wallet
+      email_address: john@carbonwallet.com
+      bch: Yes
+      btc: Yes
+      othercrypto: Yes
+      doc: https://www.reddit.com/r/Bitcoincash/comments/7vg4is/carbon_wallet_now_live_with_support_for_bch/
+      url: https://carbonwallet.com/
 
     - name: CashAddress.org
       url: https://cashaddress.org/
@@ -132,7 +142,7 @@ websites:
       othercrypto: Yes
       doc: https://www.keepkey.com/2017/07/31/bitcoin-cash-keepkey/
       exceptions:
-          text: "Wallet currently in beta testing."
+        text: Wallet currently in beta testing.
 
     - name: Ledger
       url: https://www.ledgerwallet.com/
@@ -180,7 +190,7 @@ websites:
     - name: Unit Wallet
       url: https://www.unitwallet.co/
       twitter: UnitWallet
-      facebook:
+      facebook: 
       img: unitwallet.png
       bch: yes
       btc: no
