@@ -1,4 +1,13 @@
 websites:
+    - name: AT&amp;T
+      url: https://www.att.com/
+      twitter: ATTCares
+      facebook: ATT
+      img: att.png
+      bch: No
+      btc: No
+      othercrypto: No
+
     - name: American Electric Power
       url: https://www.aep.com/
       twitter: AEPnews
@@ -12,15 +21,6 @@ websites:
       url: https://aa.net.uk
       img: aaisp.png
       twitter: aaisp
-      bch: No
-      btc: No
-      othercrypto: No
-
-    - name: AT&amp;T
-      url: https://www.att.com/
-      twitter: ATTCares
-      facebook: ATT
-      img: att.png
       bch: No
       btc: No
       othercrypto: No
@@ -95,19 +95,19 @@ websites:
       btc: Yes
       othercrypto: No
 
-    - name: Dominion Energy
-      url: https://www.dominionenergy.com/
-      twitter: dominionenergy
-      img: dominion.png
-      bch: No
-      btc: No
-      othercrypto: No
-
     - name: DTE Energy
       url: https://www.dteenergy.com/
       twitter: DTE_Energy
       facebook: dteenergy
       img: dteenergy.png
+      bch: No
+      btc: No
+      othercrypto: No
+
+    - name: Dominion Energy
+      url: https://www.dominionenergy.com/
+      twitter: dominionenergy
+      img: dominion.png
       bch: No
       btc: No
       othercrypto: No
@@ -190,6 +190,18 @@ websites:
       facebook: halebop
       bch: No
       btc: No
+      othercrypto: No
+
+    - name: Mobile Vikings
+      url: https://mobilevikings.be/en/v2/
+      img: mobilevikings.png
+      twitter: mobilevikingsBE
+      facebook: mobilevikings
+      email_address: info@mobilevikings.be
+      region: eu
+      country: BE
+      bch: Yes
+      btc: Yes
       othercrypto: No
 
     - name: Moj Tele2
@@ -424,6 +436,23 @@ websites:
       btc: No
       othercrypto: No
 
+    - name: VoIP Supply
+      url: https://www.voipsupply.com
+      img: voipsupply.png
+      bch: No
+      btc: No
+      othercrypto: No
+      exceptions:
+        text: Stopped supporting Bitcoin in the beginning of June 2017
+
+    - name: VoIP.ms
+      url: https://voip.ms/
+      twitter: voipms
+      img: voipms.png
+      bch: No
+      btc: No
+      othercrypto: No
+
     - name: Vodafone (IE)
       url: https://www.vodafone.ie/
       twitter: VodafoneIreland
@@ -447,23 +476,6 @@ websites:
       img: vodafone.png
       twitter: vodafoneUK
       facebook: vodafoneuk
-      bch: No
-      btc: No
-      othercrypto: No
-
-    - name: VoIP Supply
-      url: https://www.voipsupply.com
-      img: voipsupply.png
-      bch: No
-      btc: No
-      othercrypto: No
-      exceptions:
-        text: "Stopped supporting Bitcoin in the beginning of June 2017"
-
-    - name: VoIP.ms
-      url: https://voip.ms/
-      twitter: voipms
-      img: voipms.png
       bch: No
       btc: No
       othercrypto: No
